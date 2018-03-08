@@ -1,0 +1,7 @@
+000387:  fill(map(noise(h),0,1,0,255),map(noise(h),0,1,0,255),map(noise(x*h),0,1,0,255));
+0399:    fill(map(noise(h+5),0,1,0,255),map(noise(h+400),0,1,0,255),map(noise(x*h),0,1,0,255));
+0210:	 fill(map(noise(h+5),0,1,0,255),map(noise(h+400),0,1,0,255),map(noise(h+200),0,1,0,255));
+0268:    fill(map(noise(h+5+x),0,1,0,255),0,map(noise(h+200+x),0,1,0,255));
+0330:    fill(map(noise(h+5*x),0,1,0,255),0,map(noise(h+200*x),0,1,0,255));
+0118:    fill(map(noise(h+5*x),0,1,0,0),map(noise(h+400*x),0,1,0,200),map(noise(h+20*x),0,1,0,255));
+                        
