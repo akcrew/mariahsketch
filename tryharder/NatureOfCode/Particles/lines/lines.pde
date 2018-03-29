@@ -43,9 +43,9 @@ noStroke();
   
   triangle(mX-s/2,150,mX,s,mX+s/2,150);
   stroke(55);
-  fill(150);
-  ellipse(mX,mY,150,150);
-  fill(cR);
+  //fill(150);
+  //ellipse(mX,mY,150,150);
+  //fill(cR);
   
 }
 }
